@@ -15,7 +15,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### Code
 
-Code is provided in the `.ipynb` notebook files. You will also be required to use the included `visuals.py` Python file and the `.csv` dataset files to view the work. 
+The code is provided in the `.ipynb` notebook files. You will also be required to use the included `visuals.py` Python file and the `.csv` dataset files to view the work. 
 ### Run
 
 In a terminal or command window, navigate to the top-level project directory `customer_segments/` (that contains this README) and run one of the following commands:
