@@ -18,14 +18,14 @@ If you do not have Python installed yet, it is highly recommended that you insta
 The code is provided in the `.ipynb` notebook files. You will also be required to use the included `visuals.py` Python file and the `.csv` dataset files to view the work. 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `customer_segments/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook xyz.ipynb
+ipython notebook FILENAME.ipynb
 ```  
 or
 ```bash
-jupyter notebook xyz.ipynb
+jupyter notebook FILENAME.ipynb
 ```
 
 This will open the Jupyter Notebook software and project file in your browser.
